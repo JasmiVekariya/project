@@ -1,3 +1,10 @@
+/*
+FILE           : f3.cpp
+PROJECT        : Focused Assignment - 3
+PROGRAMMER     : Vekariya Jasmi Devjibhai (Jvekariya0251@conestogac.on.ca)
+FIRST VERSION  : 01-31-2024
+DESCRIPTION    : Calling a function to get a number from the user and displays whether the number is greater than or less than or equal to 1000.
+*/
 #include<stdio.h>
 int isGreaterThan(int input_by_user);
 int getNum();
